@@ -1,2 +1,4 @@
 # Cookies
-Udacity intro to Android. Picture will change after clicked EAT COOKIE
+Picture will change after clicked EAT COOKIE.
+
+Udacity ANDROIDbeginner-Grow with Google Scholarship course
